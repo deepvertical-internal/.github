@@ -18,8 +18,10 @@ This organization contains proprietary intellectual property and research.
 
 **vera** - Core framework  
 **vera-local-models** - Model implementations  
-**deepverticaldotai** - Company materials
+**deepverticaldotai** - Company website
 
 ---
 
-**Contact:** john@deepvertical.ai
+## Contact
+
+**Contact via website:** https://deepvertical.ai
